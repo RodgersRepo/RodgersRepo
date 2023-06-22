@@ -1,4 +1,4 @@
-# README For the Restlog app
+# Rodgers Repository
 
 A repo of various bits of scripts and code centered arond Cisco Unified Communication Manager.
 
