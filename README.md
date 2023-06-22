@@ -1,6 +1,6 @@
 # Rodgers Repository
 
-A repo of various bits of scripts and code centered arond Cisco Unified Communication Manager.
+A repo of various bits of scripts and code centered around Cisco Unified Communication Manager.
 
 ## Table of Contents
 
