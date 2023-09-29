@@ -5,4 +5,4 @@ A repo of various bits of scripts and code mainly centered around Cisco Unified 
 ## Table of Contents
 
 [CUCM Powershell](https://github.com/RodgersRepo/CUCMPowershell)<br>
-[Javascript Macros](https://github.com/RodgersRepo/TPjavascript)
+[Collaboration Endpoint Javascript Macros](https://github.com/RodgersRepo/collaboration-endpoint-javascript)
