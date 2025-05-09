@@ -16,3 +16,5 @@ A repo of various bits of scripts and code mainly centered around Cisco Unified 
 
 [Powershell script for executing a SQL CUCM query](https://github.com/RodgersRepo/Powershell_CUCM_SQL_Query_GUI_Script)
 
+[Powershell script that generates an HTML year planner from your Outlook calender](https://github.com/RodgersRepo/Outlook_Year_planner_Script)
+
